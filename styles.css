@@ -1,14 +1,53 @@
-.nav {
-  display: inline-block;
-  font-size: 2rem;
-  text-align: center;
+/*****************
+GENERAL
+*****************/
+body {
+  background-color: black;
+  font-size: 100%;
+  color: #FFFFFF;
 }
+
+/*****************
+HEADING
+*****************/
+
 .header {
-  font-size: 10rem;
-  font-family: quicksand, monospace, sans-serif;
-  font-weight: 100;
+  background-image: url(img/gold.jpg);
+  background-size: 100%;
+  background-repeat: no-repeat;
+  font-size: 5em;
+  font-family: 'Poiret One', cursive;
+  font-weight: normal;
   text-transform: uppercase;
   text-align: center;
-  text-decoration:none;
+  text-decoration: none;
+  color: #000000;
 
+}
+
+/*****************
+Navigation
+*****************/
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  color: inherit;
+  text-decoration: none;
+  background-color: #FFFFFF;
+}
+
+
+ li {
+   text-decoration: none;
+   color: #000000;
+   font-family: "Lucida Console"
+   display: inline-block;
+   width: 60px;
+ }
+.nav {
+  background-color: #FFFFFF;
+  float: left;
+  display: block;
 }
