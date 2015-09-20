@@ -6,7 +6,7 @@ body {
   background-color: black;
   font-size: 100%;
   font-weight: 400;
-  color: #FFFFFF;
+  color: #f2ca3d;
 }
 
 a {
@@ -26,9 +26,6 @@ HEADING
   border-top-right-radius: 30px;
 
 
-
-
-  font-size: 4.5em;
   font-family: 'Poiret One', cursive;
   text-transform: uppercase;
   font-weight: bold;
@@ -54,9 +51,9 @@ nav ul {
 
 
  nav li {
-   color: #000000;
+   color: #f2ca3d;
    display: inline-block;
-   padding: 0 2% 0 2%;
+   padding: 0 3% 0 3%;
  }
 nav {
   background-color: #000000;
@@ -67,6 +64,49 @@ nav {
 }
 
 nav a {
-  font-size: 1.5em;
-  color: #fff;
+  font-size: 3.0em;
+  color: #f2ca3d;
+}
+
+#bandphoto img{
+  display: block;
+  height: auto;
+  width: 75vmin;
+  max-width: 350px;
+  margin-top: 10vw;
+  margin-right:auto;
+  margin-left: auto;
+  border: 20px double #f2ca3d;
+  border-radius: 100%;
+}
+
+#octagon img{
+  display: block;
+  height: auto;
+  max-width: 100%;
+  margin-top: 10vw;
+  margin-right:auto;
+  margin-left: auto;
+  border-radius: 100%;
+}
+
+#speaker img{
+  display: block;
+  height: auto;
+  width:400px;
+  max-width: 100%;
+  margin-top: 10vw;
+  margin-right:auto;
+  margin-left: auto;
+  border-radius: 100%;
+}
+#vanagon img{
+  display: block;
+  height: auto;
+  width: 500px;
+  max-width: 100%;
+  margin-top: 10vw;
+  margin-right:auto;
+  margin-left: auto;
+
 }
