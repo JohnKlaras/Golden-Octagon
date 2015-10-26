@@ -1,3 +1,4 @@
+![Golden Octagon Website Screenshot](/img/golden_octagon.png?raw=true)
 # _Golden Octagon_
 
 ##### _Website for Portland band Golden Octagon, 10-26-2015_
